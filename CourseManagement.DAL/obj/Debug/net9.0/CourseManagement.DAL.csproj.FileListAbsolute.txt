@@ -1,0 +1,15 @@
+C:\Users\sh\Source\Repos\CourseManagementProject\CourseManagement.DAL\obj\Debug\net9.0\CourseManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\sh\Source\Repos\CourseManagementProject\CourseManagement.DAL\obj\Debug\net9.0\CourseManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh\Source\Repos\CourseManagementProject\CourseManagement.DAL\obj\Debug\net9.0\CourseManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\sh\Source\Repos\CourseManagementProject\CourseManagement.DAL\obj\Debug\net9.0\CourseManagement.DAL.AssemblyInfo.cs
+C:\Users\sh\Source\Repos\CourseManagementProject\CourseManagement.DAL\obj\Debug\net9.0\CourseManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\sh\Source\Repos\CourseManagementProject\CourseManagement.DAL\obj\Debug\net9.0\CourseManagement.DAL.sourcelink.json
+C:\Users\sh\Source\Repos\CourseManagementProject\CourseManagement.DAL\bin\Debug\net9.0\CourseManagement.DAL.deps.json
+C:\Users\sh\Source\Repos\CourseManagementProject\CourseManagement.DAL\bin\Debug\net9.0\CourseManagement.DAL.runtimeconfig.json
+C:\Users\sh\Source\Repos\CourseManagementProject\CourseManagement.DAL\bin\Debug\net9.0\CourseManagement.DAL.dll
+C:\Users\sh\Source\Repos\CourseManagementProject\CourseManagement.DAL\bin\Debug\net9.0\CourseManagement.DAL.pdb
+C:\Users\sh\Source\Repos\CourseManagementProject\CourseManagement.DAL\obj\Debug\net9.0\CourseManagement.DAL.dll
+C:\Users\sh\Source\Repos\CourseManagementProject\CourseManagement.DAL\obj\Debug\net9.0\refint\CourseManagement.DAL.dll
+C:\Users\sh\Source\Repos\CourseManagementProject\CourseManagement.DAL\obj\Debug\net9.0\CourseManagement.DAL.pdb
+C:\Users\sh\Source\Repos\CourseManagementProject\CourseManagement.DAL\obj\Debug\net9.0\CourseManagement.DAL.genruntimeconfig.cache
+C:\Users\sh\Source\Repos\CourseManagementProject\CourseManagement.DAL\obj\Debug\net9.0\ref\CourseManagement.DAL.dll
